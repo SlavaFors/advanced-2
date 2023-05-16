@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SlavaFors/advanced-1.git"
+    "url": "git+https://github.com/SlavaFors/advanced-2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SlavaFors/advanced-1/issues"
+    "url": "https://github.com/SlavaFors/advanced-2/issues"
   },
-  "homepage": "https://github.com/SlavaFors/advanced-1#readme",
+  "homepage": "https://github.com/SlavaFors/advanced-2#readme",
   "devDependencies": {
     "@babel/cli": "^7.21.5",
     "@babel/core": "^7.21.8",
